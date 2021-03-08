@@ -1,0 +1,21 @@
+.ordertable{
+	border-collapse:collapse;
+	border:1px solid #000000;
+}
+
+.ordertableHeader {
+   text-align:center;
+   background:none repeat scroll 0 0 #B5B5B5;
+   border-bottom:1px solid #000000;  
+   padding:2px;
+}
+
+.ordertableOddRow {
+   text-align:center;
+   background:none repeat scroll 0 0 #FFFFFF;	
+}
+
+.ordertableEvenRow {
+   text-align:center;
+   background:none repeat scroll 0 0 #D3D3D3;
+}
